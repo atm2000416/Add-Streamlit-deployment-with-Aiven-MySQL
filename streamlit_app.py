@@ -1,7 +1,7 @@
 import streamlit as st
 import sys
 from io import StringIO
-from config import get_config, get_database_uri
+from config import get_config
 
 # Configure page
 st.set_page_config(
